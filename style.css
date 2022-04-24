@@ -13,7 +13,7 @@ body {
   align-items: center;
   min-height: 100vh;
   background-image: url('https://images.alphacoders.com/115/1152456.jpg');
-  background-size: 86rem;
+  background-size: cover;
   background-position: align;
   background-repeat: no-repeat;
 }
